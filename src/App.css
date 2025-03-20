@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  background-image: url("./images.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover; 
+}
